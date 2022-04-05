@@ -1,0 +1,102 @@
+This licence agreement (Agreement) is a legal agreement between you (you) and Toshiba Europe Limited of 1st Floor, 3 Furzeground Way, Stockley Park, Uxbridge, Middlesex, UB11 1EZ, United Kingdom (us, our or we) for:
+- LUCES:A dataset for Near-Field Point Light Sources Photometric Stereo created by R. Mecca, F. Logothetis, I. Budvytis and R. Cipolla and as more fully described in the publication at the Appendix (Work); and
+- printed materials and online documentation (Documentation).
+By using the Work and/or Documentation, you are agreeing to the terms of this Agreement. We license use of the Work and Documentation to you on the basis of this Agreement. We do not sell the Work or Documentation to you. We remain the owners of the Work and Documentation at all times.
+ 
+AGREED TERMS
+
+1.  GRANT AND SCOPE OF LICENCE  
+1.1  In consideration of you agreeing to abide by the terms of this Agreement, and subject to the restrictions in clause 2, we hereby grant the following non-exclusive, royalty free, worldwide and non-transferable rights to you:
+(a) to reproduce and prepare any work, based on or derived from the Work, in Source form (which shall mean the preferred form for making modifications to the Work) or Object form (which shall mean any form resulting from mechanical transformation or translation of a Source form) in each case solely for the purposes of research (Use); and
+(b) to reproduce and distribute any Documentation in support of the Use permitted under clause 1.1(a) as is reasonably necessary,
+all subject to the terms of this Agreement (Licence).
+1.2 The Licence shall continue in force for the term of copyright in the Work, subject to the terms of this Agreement. This Agreement shall continue unless and until terminated earlier in accordance with clause 6.
+
+1.3 This Agreement gives no permission to license the Work in any other way, but it does not invalidate such permission if you have separately received it.
+
+2.  RESTRICTIONS  
+
+2.1 Except as expressly set out in this Agreement or as permitted by any local law, you undertake:
+ 
+(a) not to use the Work or Documentation for commercial purposes;
+
+(b) to conspicuously and appropriately publish on each entire and/or partial copy of the Work and/or Documentation, in any form, the copyright notices as set out at the Appendix;
+
+(c) to keep intact all notices stating that this Agreement and any other terms apply to the Work and Documentation; 
+
+(d) to keep intact all notices of the absence of any warranty in respect of the Work and Documentation;
+
+(e) to give all recipients a copy of this Agreement along with the Work and Documentation;
+
+(f) not to use the Work or Documentation in any way which is likely to have a material negative impact upon our business; 
+
+(g) to maintain the Work to the most up to date version of the Work (as made available through our website); and
+ 
+(h)  to comply with all applicable technology control or export laws and regulations.
+
+2.2 To the extent that the Work contains third party work, use by you will be subject to the third parties' terms and conditions (see the Appendix). The provisions of this Agreement neither change nor add any further conditions or terms to the use of such third party work. In relation to any liability obligations contained in this Agreement, we act on our own behalf and not on behalf of any contributor to the third party works. 
+
+2.3 If you are using the Work and Documentation on behalf of an organisation then you are agreeing to this Agreement on behalf of that organisation and you represent and warrant that you have the authority to bind that organisation to this Agreement.
+
+3.  INTELLECTUAL PROPERTY RIGHTS  
+3.1  You acknowledge that all intellectual property rights in the Work and the Documentation throughout the world belong to us, that rights in the Work are licensed (not sold) to you, and that you have no intellectual property rights in, or to, the Work or the Documentation other than the right to use the Work and the Documentation in accordance with the terms of this Agreement.
+
+3.2 You acknowledge that we have no obligation to provide, assign or disclose to you any modifications or developments in the Work and Documentation.
+4.  NO WARRANTY 
+Except as expressly set out in this Agreement, we make no representation or warranty in respect of or in connection with the Work, Documentation or their use. All other representations, warranties, conditions or other terms which might have effect between the parties or be implied or incorporated into this Agreement, or any collateral contract, whether by virtue of statute, common law or otherwise, are hereby excluded to the maximum extent permitted by law, including, without limitation, implied conditions, warranties or other terms as to satisfactory quality, merchantability, fitness for purpose or the use of reasonable care and skill. You are solely responsible for determining the appropriateness of using or redistributing the Work and Documentation and assume any risks associated with your exercise of permissions under this Licence.
+5.  LIMITATION OF LIABILITY  
+5.1 Our liability under or in connection with this Agreement (whether in contract, tort, including negligence, or otherwise) is limited, subject to clause 5.2, as follows:
+(a) we will have no liability for any loss of profits, loss of business, loss of goodwill, loss of anticipated savings, loss of or corruption to data or for any indirect or consequential loss or damage; 
+(b) we will have no liability for any loss, damage, expense or liability incurred or sustained as a result of third party work contained within the Work (including, without limitation, any open source software);
+(c) we will have no liability for use of a non-current release or version of the Work; and
+(d) the maximum aggregate amount of any such liability which is not excluded by (a) shall be £100.00 (one hundred pound sterling). 
+
+5.2 Nothing in this Agreement shall limit our liability for (a) death or personal injury caused by our negligence; or (b) arising as a result of our fraud or fraudulent misrepresentation; or (c) any other liability that cannot be limited or excluded by law.
+
+6.  TERMINATION  
+6.1  This Agreement, and the Licence herein, will terminate immediately (a) if you breach any or all terms of this Agreement; or (b) if the licence between us and any third party (including Apache and TensorFlow) terminates for any reason.
+
+6.2  Upon termination of this Agreement for any reason:
+(a)  all rights granted to you under the Licence shall cease;
+(b)  you must cease all activities authorised by this Agreement; and
+(c)  you must immediately delete or remove the Work and Documentation from all equipment, devices and other storage means in your possession and immediately destroy all copies of the Work and Documentation then in your possession, custody or control and certify to us that you have done so.
+ 
+7.  COMMUNICATIONS BETWEEN US  
+Any and all notifications with regards to the Work, the Documentation and/or the Agreement shall be delivered either by email, in person or by certified mail to the following address, info@crl.toshiba.co.uk, as may be updated from time to time by way of our website, available at the following link: https://www.toshiba.eu/eu/Cambridge-Research-Laboratory/Contact-Us/.
+
+8.  GENERAL
+8.1  We may transfer our rights and obligations under this Agreement to another organisation. You may only assign or transfer your rights or obligations under this Agreement if we agree in writing.
+
+8.2  This Agreement does not give rise to any rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement.
+ 
+8.3  Each of the clauses in this Agreement operate separately. If any court or relevant authority decides that any of them (in whole or in part) are unlawful, the remaining clauses, or part-clauses, will remain in full force and effect.
+ 
+8.4  If we do not insist immediately that you do anything you are required to do under this Agreement, or if we delay in taking steps against you in respect of your breaking this Agreement, that will not mean that you do not have to do those things and it will not prevent us taking steps against you at a later date.
+
+8.5 This Agreement is the entire agreement between us in relation to its subject matter. You acknowledge that you have not relied on any statement, promise or representation or assurance or warranty that is not set out in this Agreement.
+
+8.6 Both parties agree that direct monetary damages may not be the sole extent of damages related to a breach of this Agreement. Each party therefore agrees a breach of this Agreement by you will allow us to seek additional relief from you.
+
+8.7 This Agreement is governed by English law. The courts of England shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement, however we are entitled to apply to any court worldwide for injunctive or other remedies in order to protect or enforce our intellectual property rights in the Work and Documentation.
+
+APPENDIX
+
+1. 	References to the Work in research papers and other media, must cite our preferred publications:
+LUCES:A dataset for Near-Field Point Light Sources Photometric Stereo
+R. Mecca, F. Logothetis, I. Budvytis and R. Cipolla
+----
+A CNN Based Approach for the Near-Field Photometric Stereo Problem
+F. Logothetis, I. Budvytis, R. Mecca and R. Cipolla
+BMVC 2020
+
+2	Any part of the Work that is labelled as third party work (including Apache and TensorFlow) is subject to the following terms:
+
+Copyright 2018 The TensorFlow Authors All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+You may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+	http://www.apache.org/licenses/LICENSE-2.0 
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
